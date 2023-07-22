@@ -2,7 +2,7 @@ package org.example.SumOfTwoDigits;
 
 import java.util.Scanner;
 
-public class one {
+public class A {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
 

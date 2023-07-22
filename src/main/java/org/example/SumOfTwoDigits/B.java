@@ -1,10 +1,9 @@
 package org.example.SumOfTwoDigits;
 
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
-public class two {
+public class B {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
 
