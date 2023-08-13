@@ -14,6 +14,7 @@ public class A {
             long max1 = Long.MIN_VALUE;
             long max2 = Long.MIN_VALUE;
 
+
             for (int i = 0; i < size; i++) {
                 if (array[i] >= max1) {
                     max2 = max1;
@@ -26,6 +27,7 @@ public class A {
             }
 
             System.out.println(max1 * max2);
+
         } catch (Exception e) {
             e.printStackTrace();
         }
